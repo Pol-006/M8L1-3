@@ -1,0 +1,13 @@
+## Este es el tipo de mi proyecto:
+> Pagina informativa de Pokemon  
+
+## Las bibliotecas que voy a utilizar:
+- from PIL import Image
+- import random
+
+## Referencias útiles:
+- https://github.com/Pol-006/M8L1-2/blob/main/Hackton.py
+
+## Los artículos de la guía que me ayudarán durante el desarrollo
+Trata de si es buena idea usar tus pokemons favoritos en competitivo [PokemonFavoritos] 
+https://www.reddit.com/r/TruePokemon/comments/fl77m1/should_you_stick_to_your_favorite_pokemon_or/?tl=es-es&rdt=62014
